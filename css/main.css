@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+.img-jumbo {
+    width: 100%;
+}
+
+.name-row a.btn {
+    padding: 0px 0px 0px 0px;
+}
+
+.pic-row {
+    text-align: center;
+}
+
+.team-name {
+    font-family: 'Anton', sans-serif;
+    margin-right: 6.5%;
+}
+.team-name span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
